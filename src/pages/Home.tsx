@@ -25,7 +25,7 @@ const Home: React.FC = () => {
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 bg-primary-800/60"></div>
           <img 
-            src="https://images.pexels.com/photos/8471739/pexels-photo-8471739.jpeg" 
+            src="https://images.pexels.com/photos/207691/pexels-photo-207691.jpeg" 
             alt="School Building" 
             className="w-full h-full object-cover"
           />
